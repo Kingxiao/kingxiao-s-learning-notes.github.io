@@ -13,7 +13,7 @@
 * [《最简单的GitHub入门教程》](https://www.bilibili.com/video/av4857819/)
 * [莫烦PYTHON](https://morvanzhou.github.io/)
 * [耶鲁大学公开课：金融市场](https://www.bilibili.com/video/av9947400)
-* 
+* [经济学人](https://github.com/nailperry-zd/The-Economist)
 
 ## 目的：
 * 自我督促进度

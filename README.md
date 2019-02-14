@@ -10,7 +10,7 @@
 
 ## 课程资源参考
 * [《最简单的GitHub入门教程》](https://www.bilibili.com/video/av4857819/)
-* [莫烦PYTHON]（https://morvanzhou.github.io/）
+* [莫烦PYTHON](https://morvanzhou.github.io/)
 * [耶鲁大学公开课：金融市场](https://www.bilibili.com/video/av9947400)
 * 
 

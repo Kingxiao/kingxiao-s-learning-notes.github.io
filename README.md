@@ -3,6 +3,7 @@
 ### [git&github](https://github.com/Kingxiao/kingxiao-s-learning-notes.github.io/blob/gh-pages/github&git.md)
 ### Python
 ### 算法
+### [d3](https://github.com/d3/d3)
 ### 经济学
 ### 可视化
 ### 金融理论

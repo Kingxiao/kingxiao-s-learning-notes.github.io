@@ -15,6 +15,10 @@
 * [耶鲁大学公开课：金融市场](https://www.bilibili.com/video/av9947400)
 * [经济学人](https://github.com/nailperry-zd/The-Economist)
 
+## 工具
+* [Jekyll](https://jekyllcn.com/docs/github-pages/)
+* evernote
+
 ## 目的：
 * 自我督促进度
 * 分享知识，共同学习

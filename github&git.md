@@ -10,7 +10,7 @@
 * pull request拉
 ### 流程图
 
-![image](https://github.com/Kingxiao/kingxiao-s-learning-notes.github.io/blob/master/%E4%B8%8B%E8%BD%BD%20(1).png)
+![image](https://github.com/Kingxiao/kingxiao-s-learning-notes.github.io/blob/gh-pages/%E4%B8%8B%E8%BD%BD%20(1).png)
 
 ### 本地端
 * git clone

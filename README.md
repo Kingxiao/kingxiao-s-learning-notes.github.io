@@ -1,6 +1,6 @@
 # kingxiao-s-learning-notes.github.io
 ## 主要内容：
-### git&github
+### [git&github](https://github.com/Kingxiao/kingxiao-s-learning-notes.github.io/blob/gh-pages/github&git.md)
 ### Python
 ### 算法
 ### 经济学
@@ -18,6 +18,8 @@
 ## 工具
 * [Jekyll](https://jekyllcn.com/docs/github-pages/)
 * evernote
+* [the brain](http://www.ypojie.com/2826.html)
+* [jupyter notebook](https://jupyter.org/)
 
 ## 目的：
 * 自我督促进度

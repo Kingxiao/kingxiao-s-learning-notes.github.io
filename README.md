@@ -21,6 +21,7 @@
 * evernote
 * [the brain](http://www.ypojie.com/2826.html)
 * [jupyter notebook](https://jupyter.org/)
+* [sublime text](https://www.sublimetext.com/)
 
 ## 目的：
 * 自我督促进度

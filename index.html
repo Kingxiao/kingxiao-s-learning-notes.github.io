@@ -1,7 +1,37 @@
-<html>
-
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+<title>Akio Junichi - Explorer</title>
+	<meta charset="utf-8" />
+	<meta name="description" content="Explorer. " />
+	<meta name="keywords" content="Explorer" />
+	<meta name="author" content="Akio Junichi" />
+	<meta name="robots" content="index, follow">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+	<link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" href="/style.css?4" type="text/css" media="screen" />
+</head>
 <body>
-  <h1>学习笔记</h1>
-  <h3>by子川</h3>
+
+<main class="container">
+	<section class="content">
+		<h1>Akio Junichi</h1>
+		<p id="desc"></p>
+		<a href="mailto:mushiqingqian@gmail.com" title="Email Akio Junichi">Contact</a>
+	</section>
+</main>
+
+<script>
+var showText = function (target, message, index, interval) {
+	if (index < message.length) {
+		$(target).append(message[index++]);
+		setTimeout(function () { showText(target, message, index, interval); }, interval);
+	}
+}
+$(function () {
+	showText("#desc", "Explorer", 0, 100);
+});
+</script>
 </body>
 </html>

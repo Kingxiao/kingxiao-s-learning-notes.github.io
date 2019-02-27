@@ -2,7 +2,7 @@
 ## 主要内容：
 ### [git&github](https://github.com/Kingxiao/kingxiao-s-learning-notes.github.io/blob/gh-pages/github&git.md)
 ### Python
-### 算法
+### [算法](https://algs4.cs.princeton.edu/home/)
 ### [d3](https://github.com/d3/d3)
 ### 经济学
 ### [可视化](https://book.douban.com/subject/25665238/annotation)

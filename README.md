@@ -7,7 +7,7 @@
 ### 经济学
 ### [可视化](https://book.douban.com/subject/25665238/annotation)
 ### 金融理论
-> [金融市场](https://github.com/Kingxiao/kingxiao-s-learning-notes.github.io/blob/gh-pages/%E3%80%8A%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA%E3%80%8B%E7%AC%94%E8%AE%B0%E7%9B%AE%E5%BD%95.md)
+> [金融市场](https://github.com/Kingxiao/kingxiao-s-learning-notes.github.io/blob/gh-pages/Financial%20Markets/%E3%80%8A%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA%E3%80%8B%E7%AC%94%E8%AE%B0%E7%9B%AE%E5%BD%95.md)
 
 
 ## 课程资源参考

@@ -11,6 +11,7 @@
 - 转载请联系[邮箱](mushiqingqian@gmail.com),并说明出处
 
 ## 主要内容：
+自勉[if](https://github.com/Kingxiao/kingxiao-s-learning-notes.github.io/blob/gh-pages/If%20.md)
 ### 编程
 - [git&github](https://github.com/Kingxiao/kingxiao-s-learning-notes.github.io/blob/gh-pages/github&git.md)
 >[最简单的GitHub入门教程笔记](https://www.bilibili.com/video/av4857819/)
@@ -65,6 +66,3 @@
   编写可视化时间线开源软件
 * [TimelineJS](http://timeline.knightlab.com/)
 
-## 目的：
-* 自我督促进度
-* 分享知识，共同学习

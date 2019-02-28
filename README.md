@@ -32,9 +32,11 @@
 > [最简单的图形与最复杂的信息](https://book.douban.com/subject/25755879/)
 
 ### 统计学
+> [可汗学院公开课：统计学](https://www.bilibili.com/video/av7199273)
 > [《深入浅出统计学》](https://book.douban.com/subject/7056708/)
 > [《数学科学实战》](https://book.douban.com/subject/26320485/)
 > [《ggplot2：数据分析与图形艺术》](https://book.douban.com/subject/24527091/)
+
 
 ## 工具
 * [Jekyll](https://jekyllcn.com/docs/github-pages/)

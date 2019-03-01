@@ -43,6 +43,8 @@
 
 > [《深入浅出统计学》](https://book.douban.com/subject/7056708/)
 
+> [《沉浸式学习数学》](http://immersivemath.com/ila/index.html)
+
 > [《数学科学实战》](https://book.douban.com/subject/26320485/)
 
 > [《ggplot2：数据分析与图形艺术》](https://book.douban.com/subject/24527091/)

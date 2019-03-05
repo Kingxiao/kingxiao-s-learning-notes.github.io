@@ -51,6 +51,8 @@
 
 
 ## 工具
+* [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=-Rh3-Vt9Nev9)
+  谷歌云端编译器
 * [StackEdit](https://stackedit.io/app#)
   在线markdown编辑器，可云同步
 * [Jekyll](https://jekyllcn.com/docs/github-pages/)

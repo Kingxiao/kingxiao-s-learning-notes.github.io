@@ -67,4 +67,9 @@
 * [timeline](http://thetimelineproj.sourceforge.net/)
   编写可视化时间线开源软件
 * [TimelineJS](http://timeline.knightlab.com/)
+* [Bokeh](https://bokeh.pydata.org/en/latest/)
+  - [掌握这几点，轻松玩转 Bokeh 可视化](https://zhuanlan.zhihu.com/p/58297019) 
+* [plot.ly](https://plot.ly/python/)
+* [dash](https://dash.plot.ly/)
+
 

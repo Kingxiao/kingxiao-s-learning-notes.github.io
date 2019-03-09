@@ -16,7 +16,8 @@
 - [git&github](https://github.com/Kingxiao/kingxiao-s-learning-notes.github.io/blob/gh-pages/github&git.md)
 >[最简单的GitHub入门教程笔记](https://www.bilibili.com/video/av4857819/)
 - Python
-> [莫烦PYTHON](https://morvanzhou.github.io/)
+> [莫烦PYTHON] （https://morvanzhou.github.io/）
+> [利用Python进行数据分析](https://www.jianshu.com/p/04d180d90a3f)
 - 算法
 > [算法图解](https://book.douban.com/subject/26979890/)
 

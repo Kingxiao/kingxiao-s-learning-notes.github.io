@@ -51,6 +51,8 @@
 
 > [《ggplot2：数据分析与图形艺术》](https://book.douban.com/subject/24527091/)
 
+- [统计之都](https://cosx.org/)
+
 
 ## 工具
 * [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=-Rh3-Vt9Nev9)

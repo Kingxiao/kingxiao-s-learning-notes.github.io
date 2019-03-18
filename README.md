@@ -79,5 +79,6 @@
   - [掌握这几点，轻松玩转 Bokeh 可视化](https://zhuanlan.zhihu.com/p/58297019) 
 * [plot.ly](https://plot.ly/python/)
 * [dash](https://dash.plot.ly/)
+- [速查表](https://github.com/Kingxiao/kingxiao-s-learning-notes.github.io/blob/gh-pages/coding/cheatsheet.md)
 
 

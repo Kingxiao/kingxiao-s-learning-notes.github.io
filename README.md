@@ -14,7 +14,9 @@
 自勉[if](https://github.com/Kingxiao/kingxiao-s-learning-notes.github.io/blob/gh-pages/If%20.md)
 ### 编程
 - [git&github](https://github.com/Kingxiao/kingxiao-s-learning-notes.github.io/blob/gh-pages/github&git.md)
->[最简单的GitHub入门教程笔记](https://www.bilibili.com/video/av4857819/)
+> [最简单的GitHub入门教程笔记](https://www.bilibili.com/video/av4857819/)
+
+> [CMD命令大全](https://www.jianshu.com/p/4262b8603e9e)
 - Python
 > [莫烦PYTHON](https://morvanzhou.github.io/)
 

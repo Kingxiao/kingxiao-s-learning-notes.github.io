@@ -1,7 +1,9 @@
 # mysql5.7无法连接mysql workbench
 	
 始终报错：Access denied for user 'root'@'localhost'
+
 系统配置：ubuntu18.04
+
 原因：5.7与其不兼容，需要mysql8.0版本
 * [ ] 解决方案：卸载
 	* dpkg --list|grep mysql #查看所有依赖

@@ -13,6 +13,8 @@
 ## 主要内容：
 自勉[if](https://github.com/Kingxiao/kingxiao-s-learning-notes.github.io/blob/gh-pages/If%20.md)
 ### 编程
+> [ubuntu](https://github.com/Kingxiao/kingxiao-s-learning-notes.github.io/blob/gh-pages/coding/ubuntu%20notes.md)
+
 - [git&github](https://github.com/Kingxiao/kingxiao-s-learning-notes.github.io/blob/gh-pages/github&git.md)
 > [最简单的GitHub入门教程笔记](https://www.bilibili.com/video/av4857819/)
 

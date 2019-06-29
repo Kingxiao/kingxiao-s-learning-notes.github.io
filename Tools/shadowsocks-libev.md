@@ -90,9 +90,9 @@ vim config.json  //编辑配置文件
 ```
 ###启动服务
 ```
-sudo systemctl enable shadowsocks-libev@config //设置开机启动
-sudo systemctl start shadowsocks-libev@config //启动服务
-sudo systemctl status shadowsocks-libev@config//查询服务状态
+sudo systemctl enable shadowsocks-libev@config.service //设置开机启动
+sudo systemctl start shadowsocks-libev@config.service //启动服务
+sudo systemctl status shadowsocks-libev@config.service//查询服务状态
 ```
 
 ## 切换线路
@@ -119,9 +119,9 @@ nvim config.json
 ### 切换线路
 
 ```
-sudo systemctl disable shadowsocks-libev@former //关闭自动启动
-sudo systemctl stop shadowsocks-libev@former.service //关闭服务
-sudo systemctl start shadowsocks-libev@XXX.service//启动服务
+systemctl disable shadowsocks-libev@former.service //关闭自动启动
+systemctl stop shadowsocks-libev@former.service //关闭服务
+systemctl start shadowsocks-libev@XXX.service//启动服务
+systemctl enable shadowsocks-libev@XXX.service //开启自动启动
 systemctl status shadowsocks-libev@XXX.service //检查运行状态
-sudo systemctl disable shadowsocks-libev@XXX //开启自动启动
 ```

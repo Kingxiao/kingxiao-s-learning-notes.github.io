@@ -59,6 +59,7 @@
 
 
 ## 工具
+- [shadowsocks-libev搭建指南](https://github.com/Kingxiao/kingxiao-s-learning-notes.github.io/blob/gh-pages/Tools/shadowsocks-libev.md)
 * [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=-Rh3-Vt9Nev9)
   谷歌云端编译器
 * [StackEdit](https://stackedit.io/app#)
@@ -83,4 +84,8 @@
 * [dash](https://dash.plot.ly/)
 - [速查表](https://github.com/Kingxiao/kingxiao-s-learning-notes.github.io/blob/gh-pages/coding/cheatsheet.md)
 
+## 看完笔记如果觉得有帮助，欢迎打赏
+
+以太坊钱包地址——
+{2cb759210112c8377182538abc1bcb71451ed839}
 
